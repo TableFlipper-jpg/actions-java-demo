@@ -1,4 +1,4 @@
-public class Main() {
+public class Main {
 
   // The hello message needed
   public static void Message(String Arg[]) {
